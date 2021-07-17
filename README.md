@@ -20,4 +20,5 @@ Doge  DGT664U2ecurHHpNyUgKmS21DZrFYTRDB2
 
 cualquier aporte o sugerencia sera bien recibida... 
 
-src="https://github.com/germapet/Chia-plotter-manager/blob/main/chiamanager.jpg"
+
+(https://github.com/germapet/Chia-plotter-manager/blob/main/chiamanager.jpg?raw=true)
