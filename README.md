@@ -19,3 +19,5 @@ Eth  0xDb16D8a9526fD64b53CDc630d518a137b1d690d5
 Doge  DGT664U2ecurHHpNyUgKmS21DZrFYTRDB2
 
 cualquier aporte o sugerencia sera bien recibida... 
+
+src="https://github.com/germapet/Chia-plotter-manager/blob/main/chiamanager.jpg"
