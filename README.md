@@ -22,9 +22,7 @@ cualquier aporte o sugerencia sera bien recibida...
 
 
 (https://github.com/germapet/Chia-plotter-manager/blob/main/chiamanager.jpg)
-<head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-</head>
+
 <button class="btn btn-success">Enlace para descargar </button>
 <a href="https://github.com/germapet/Chia-plotter-manager/raw/main/chiamanager.exe" class="btn btn-success">Chia-Plotter Manage</a>
 
