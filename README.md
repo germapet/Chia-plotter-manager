@@ -26,5 +26,4 @@ cualquier aporte o sugerencia sera bien recibida...
 <button class="btn btn-success">Enlace para descargar </button>
 <a href="https://github.com/germapet/Chia-plotter-manager/raw/main/chiamanager.exe" class="btn btn-success">Chia-Plotter Manage</a>
 
-NOTA: WINDOWS LO DETECTA COMO VIRUS... PERO NO TIENE NINGUNA AMENAZA EN EL CODIGO.
-COMPILADO CON EL SOFWARE ORIGINAL DESCARGADO DE LA PAGINA DEL AUTOR.. PUREBASIC.COM
+
