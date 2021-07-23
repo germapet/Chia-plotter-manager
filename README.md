@@ -1,14 +1,17 @@
 # Chia-plotter-manager
 Manager para controlar madMAx
 
+Manager para controlar madMAx
+
 Gui para controlar madmax
-puede crear archibo .bat
-y grabar por separado cada configuracion de ploteo
+puede crear archivo .bat
+y grabar por separado cada configuración de ploteo
 
-para utilizar este programa.
-copie el archivo en el mismo directorio de madmax y ejecute
+Para utilizar este programa.
+Copie el archivo en el mismo directorio de madmax y ejecute
 
-Si este Programa es de utilidad. puede aportar para el cafe del desarrollador.
+Si este Programa es de utilidad. Puede aportar para el café del desarrollador.
+
 
 chia  xch1z74rrlt8a30q430lkfas0v6vx36emj6umy8f25sfsu064snrsdqqs8m6ec
 
